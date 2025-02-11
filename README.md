@@ -2,6 +2,12 @@
 
 Testando a versão beta do React Native Reanimated 4, que permite o uso de animações e transições do CSS.
 
+
+
+https://github.com/user-attachments/assets/e443f73e-7e36-4b4d-8698-9d559af7e04a
+
+
+
 # Executar o Projeto
 
 Clone o projeto
