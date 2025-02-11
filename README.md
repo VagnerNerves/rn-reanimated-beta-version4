@@ -1,6 +1,6 @@
 # Teste Reanimated Beta Versão 4
 
-Testando a versão Beta o React Native Reanimated versão 4 onde poderemos usar animações e transições do css.
+Testando a versão beta do React Native Reanimated 4, que permite o uso de animações e transições do CSS.
 
 # Executar o Projeto
 
